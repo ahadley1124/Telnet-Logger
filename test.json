@@ -1,0 +1,16 @@
+[MySqlRow { row: Row { storage: b"\0\x01\0\0\0", values: [Some(1..5)
+            ]
+        }, format: Binary, columns: [MySqlColumn { ordinal: 0, name: Test, type_info: MySqlTypeInfo { type: Long, flags: ColumnFlags(0x0), max_size: Some(11)
+                }, flags: Some(ColumnFlags(0x0))
+            }
+        ], column_names: {Test: 0
+        }
+    }, MySqlRow { row: Row { storage: b"\0\xa0\x86\x01\0", values: [Some(1..5)
+            ]
+        }, format: Binary, columns: [MySqlColumn { ordinal: 0, name: Test, type_info: MySqlTypeInfo { type: Long, flags: ColumnFlags(0x0), max_size: Some(11)
+                }, flags: Some(ColumnFlags(0x0))
+            }
+        ], column_names: {Test: 0
+        }
+    }
+]
